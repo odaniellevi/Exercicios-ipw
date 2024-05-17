@@ -24,6 +24,11 @@ body {
   border-radius: 3rem;
   padding: 2.25rem;
   float: left;
-  margin-right: -9rem;
+  margin-left: 0rem;
+}
+
+.title__flamengo em {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
