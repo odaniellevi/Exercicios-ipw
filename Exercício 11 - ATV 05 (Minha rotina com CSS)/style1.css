@@ -1,10 +1,10 @@
 @charset "UTF-8";
 body {
-    background-color: rgb(0, 11, 55);
+    background-color: #000b37;
 }
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    color: rgba(255, 255, 255, 0.667);
+    color: rgba(255, 255, 255, 0.749);
 }
 
 h2 {
@@ -14,12 +14,6 @@ h2 {
 article {
     font-family: Arial, Helvetica, sans-serif;
     color: rgba(255, 255, 255, 0.736);
-}
-
-.foto__rotina {
-    text-align: center;
-    align-items: center;
-    position: relative;
 }
 
 #menu ul {
@@ -73,9 +67,18 @@ aside {
     border-bottom: white;
 }
 
-header{
+header {
     background-color: #6d6d6d63;
     border-radius: 10px;
     padding: 20px;
     width: 500px;
 }
+
+.instagram__icon {
+    margin-left: 2rem;
+}
+
+.email__icon {
+    margin-left: 9rem;
+}
+
