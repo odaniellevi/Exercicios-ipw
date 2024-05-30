@@ -7,6 +7,18 @@ body {
     text-align: center;
   }
 
+  .foto__tenis {
+    width: 7rem;
+    height: 7rem;
+    top: 2.5rem;
+    left: 2.5rem;
+    border-radius: 3rem;
+    padding: 2.25rem;
+    float: left;
+    margin-left: 0.5rem;
+    margin-top: -1rem;
+  }
+
   .top__horizontal {
     display: flex;
     flex-direction: row;
@@ -24,10 +36,19 @@ body {
     width: 25rem;
     height: 9.5rem;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     border-radius: 1.25rem;
-    margin-left: -90rem;
+    margin-left: -86rem;
     margin-top: 13rem;
   }
-  
+
+  .descricao__tenis p {
+    color: #6D6D6D;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    text-align: left;
+    padding: 0.2rem;
+    padding-left: 3.5rem;
+    margin-top: -8rem;
+  }
